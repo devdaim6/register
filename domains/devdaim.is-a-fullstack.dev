@@ -1,0 +1,14 @@
+{
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "devdaim",
+
+    "owner": {
+        "email": "devdaim@proton.me"
+    },
+
+    "records": {
+        "A": ["23.95.140.103"]
+    },
+
+    "proxied": true
+}
